@@ -24,7 +24,7 @@ I am an economist and PhD candidate at FGV EPGE in Rio de Janeiro, Brazil. My re
 
 ## Methods and tools
 
-Causal inference, panel data, spatial analysis, and large administrative datasets using R, Stata, Google Earth Engine, QGIS, LaTeX, Git, and GitHub.
+My empirical work combines causal inference, panel-data methods, and geospatial analysis applied to large administrative datasets. I work primarily in R, Stata, and Google Earth Engine, with additional experience in QGIS, Julia, and Python.
 
 ## Education
 
