@@ -2,8 +2,8 @@
 
 Economics PhD Candidate at [FGV EPGE](https://epge.fgv.br/) | Applied Microeconomics and Environmental Economics
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Caio%20Moretz--Sohn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/caio-moretz-sohn-a09269303)
-[![CV Lattes](https://img.shields.io/badge/CV%20Lattes-Profile-315E9A?style=flat)](https://lattes.cnpq.br/7464588804664367)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Caio%20Moretz--Sohn-blue?style=flat&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/caio-moretz-sohn-a09269303)
+[![CV Lattes](https://img.shields.io/badge/CV%20Lattes-Profile-green?style=flat)](https://lattes.cnpq.br/7464588804664367)
 
 ## About me
 
@@ -11,12 +11,11 @@ I am an economist and PhD candidate at FGV EPGE in Rio de Janeiro, Brazil. My re
 
 ## Research interests
 
-- Environmental economics
-- Applied microeconomics
-- Development economics
-- Deforestation and land-use change
-- Environmental regulation and land institutions
-- Policy evaluation
+- Applied Microeconomics
+- Environmental Economics
+    - Deforestation and land-use change
+    - Environmental regulation and institutions
+- Development Economics
 
 ## Current research
 
