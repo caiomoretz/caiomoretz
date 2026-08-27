@@ -16,6 +16,7 @@ I am an economist and PhD candidate at FGV EPGE in Rio de Janeiro, Brazil. My re
     - Deforestation and land-use change
     - Environmental regulation and institutions
 - Development Economics
+- Energy Economics
 
 ## Current research
 
