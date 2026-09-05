@@ -1,6 +1,6 @@
 # Caio Moretz-Sohn
 
-### Economist · PhD Candidate in Economics at [FGV EPGE](https://epge.fgv.br/)
+### Economist · PhD Candidate in Economics at [FGV EPGE](https://epge.fgv.br/en)
 
 I work in Applied Microeconomics and Environmental Economics, using causal inference to study environmental and land-use policies, with a particular focus on the Brazilian Amazon.
 
